@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ys200\\OneDrive\\Pulpit\\Kontrolnaya\\Kontrolnaya.csproj",
+      "projectUniqueName": "C:\\Users\\ys200\\OneDrive\\Pulpit\\GeekBrains\\Kontrolnaya\\Kontrolnaya.csproj",
       "projectName": "Kontrolnaya",
-      "projectPath": "C:\\Users\\ys200\\OneDrive\\Pulpit\\Kontrolnaya\\Kontrolnaya.csproj",
+      "projectPath": "C:\\Users\\ys200\\OneDrive\\Pulpit\\GeekBrains\\Kontrolnaya\\Kontrolnaya.csproj",
       "packagesPath": "C:\\Users\\ys200\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ys200\\OneDrive\\Pulpit\\Kontrolnaya\\obj\\",
+      "outputPath": "C:\\Users\\ys200\\OneDrive\\Pulpit\\GeekBrains\\Kontrolnaya\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ys200\\AppData\\Roaming\\NuGet\\NuGet.Config"
